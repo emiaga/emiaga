@@ -1,4 +1,4 @@
-<div>
+<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=%F0%9F%91%8B+Ol%C3%A1!+Eu+sou+o+Matheus+Queiroz&shadow=true&shadow_color=8B0000" />
 </div>
 
