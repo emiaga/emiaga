@@ -10,7 +10,7 @@
 
 ## 🧠 Sobre mim
 
-🎓 Estudante de Sistemas de Informação na UFMS e 💻 Técnico em Informática para Internet. Sou apaixonado por tecnologia e desenvolvimento, sempre buscando evoluir e criar soluções que realmente façam diferença. Atualmente, estou focado em desenvolvimento web, aprimorando minhas habilidades tanto no front-end quanto no back-end.  
+🎓 Estudante de Sistemas de Informação na UFMS e 💻 Técnico de Nível Médio em Informática para Internet. Sou apaixonado por tecnologia e desenvolvimento, sempre buscando evoluir e criar soluções que realmente façam diferença. Atualmente, estou focado em desenvolvimento web, aprimorando minhas habilidades tanto no front-end quanto no back-end.  
 
 ---
 
