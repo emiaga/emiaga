@@ -34,7 +34,8 @@
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=vscode" />
-  <img src="https://skillicons.dev/icons?i=git,github" />
+  <img src="https://skillicons.dev/icons?i=github" />
+  <img src="https://skillicons.dev/icons?i=eclipse" />
 </div>
 
 ---
