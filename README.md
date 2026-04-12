@@ -25,7 +25,7 @@
 ## 🏗 Back-End & Linguagens
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=php,python,java,mysql,c" />
+  <img src="https://skillicons.dev/icons?i=php,python,mysql,c" />
 </div>
 
 ---
